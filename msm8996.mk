@@ -291,6 +291,10 @@ PRODUCT_PACKAGES += \
     NfcNci \
     Tag
 
+# Offline charging animation
+PRODUCT_PACKAGES += \
+    charger_res_images
+
 # OMX
 PRODUCT_PACKAGES += \
     libc2dcolorconvert \
