@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Button settings -->
-  <string name="button_panel_title">Дополнительные кнопкки и жесты</string>
+  <string name="button_panel_title">Дополнительные кнопки и жесты</string>
   <string name="button_swap_title">Поменять кнопки местами</string>
   <string name="button_swap_summary">Поменять местами кнопки «Обзор» и «Назад»</string>
 
